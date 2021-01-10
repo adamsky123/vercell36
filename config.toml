@@ -1,0 +1,4 @@
+baseURL = "https://pianosheetmusiccoloradoes.vercel.app"
+languageCode = "en-us"
+title = "Piano Sheet Music 1"
+theme = "hugo-theme-minos"
